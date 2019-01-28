@@ -1,0 +1,8 @@
+zh-CN:
+  language:
+    name: "English"
+  strings:
+    first: "First string"
+    second: "Second string"
+    third: "Third string"
+    fourth: "Fourth string"
