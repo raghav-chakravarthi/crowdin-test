@@ -1,0 +1,8 @@
+ar:
+  language:
+    name: "Arabic"
+  strings:
+    first: "تحميل"
+    second: "قائمة"
+    third: "الانتظار"
+    fourth: "Fourth string"
