@@ -1,8 +1,8 @@
 ca:
   language:
-    name: "English"
+    name: "Catalan"
   strings:
-    first: "First string"
-    second: "Second string"
-    third: "Third string"
+    first: "Carregant la cua"
+    second: "Carregant la"
+    third: "la cua"
     fourth: "Fourth string"
