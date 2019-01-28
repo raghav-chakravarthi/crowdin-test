@@ -1,8 +1,8 @@
 ar:
   language:
-    name: "English"
+    name: "Arabic"
   strings:
-    first: "First string"
-    second: "Second string"
-    third: "Third string"
+    first: "تحميل"
+    second: "قائمة"
+    third: "الانتظار"
     fourth: "Fourth string"
