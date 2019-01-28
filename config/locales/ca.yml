@@ -1,7 +1,8 @@
-ar:
+ca:
   language:
     name: "Catalan"
   strings:
     first: "Carregant la cua"
     second: "Carregant la"
     third: "la cua"
+    fourth: "Fourth string"
