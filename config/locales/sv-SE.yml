@@ -1,7 +1,8 @@
-sv-SE:
+sv:
   language:
     name: "Swedish"
   strings:
     first: "lol"
     second: "this is"
     third: "swedish"
+    fourth: "Fourth string"
